@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: devops-demo
-        image: DPEDITS/App:v1
+        image: DPEDITS/devops-demo:v1
         ports:
         - containerPort: 80
